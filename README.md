@@ -1,2 +1,0 @@
-# ApikoTest
-Created with CodeSandbox
